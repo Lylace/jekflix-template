@@ -1,12 +1,8 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: My OT Spot
+title: My OT Spot
+description: my ot spot.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
   - netlify
 show_hero: true
 menu:
@@ -18,5 +14,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: skchang8@naver.com
+disqus_username: disqus_69TRrfFTsb

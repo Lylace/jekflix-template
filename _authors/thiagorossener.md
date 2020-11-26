@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: lylace
+display_name: Lylace
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Just a coder.
+github_username: lylace
+facebook_username: lylace08
+twitter_username:
+instagram_username: lylace08
+linkedin_username:
+medium_username:
 ---
 

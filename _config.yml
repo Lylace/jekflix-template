@@ -1,13 +1,9 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: My OT Spot
+title: My OT Spot
+description: my ot spot.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
   - netlify
 show_hero: true
 menu:
@@ -19,18 +15,18 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: skchang8@naver.com
+disqus_username: disqus_69TRrfFTsb
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: lylace
+facebook_username: lylace08
+twitter_username:
+instagram_username: lylace08
+linkedin_username:
+medium_username:
 
 
 # Posts Settings
@@ -44,7 +40,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "kr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -57,7 +53,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -101,4 +97,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version:
