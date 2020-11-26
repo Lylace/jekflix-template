@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /otspot/assets/img/uploads/profile.png
 name: lylace
 display_name: Lylace
 position: Chief Editor

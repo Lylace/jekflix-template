@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Lylace" width="300">
+<img class="img-rounded" src="/otspot/assets/img/uploads/profile.png" alt="Lylace" width="300">
 
 # About
 
